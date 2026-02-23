@@ -1,0 +1,11 @@
+x = min(5, 10, 15)
+y = max(5, 10, 20)
+z = abs(-6788)
+a = pow(2, 3)
+b = round(3.996)
+
+print(x)
+print(y)
+print(z)
+print(a)
+print(b)
