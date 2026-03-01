@@ -1,0 +1,6 @@
+MAGNUM
+17/02/2025 14:33
+Milk 450
+Bread 150
+TOTAL: 600 ₸
+Payment: CARD
