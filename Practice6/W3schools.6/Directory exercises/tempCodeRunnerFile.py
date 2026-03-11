@@ -1,0 +1,1 @@
+shutil.copy("notes.txt", "project/data/")
